@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Osaze and I'm a Computer Science passionate about software and AI development.</h2>
 
 ###
-
+# 🚀 TechStack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -58,6 +58,7 @@
 
 ###
 
+
 <div align="left">
   <a href="https://www.instagram.com/og.osaze/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -72,6 +73,11 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ogieriakhi17&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ogieriakhi17&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogieriakhi17&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogieriakhi17/ogieriakhi17/output/github-snake-dark.svg" />
